@@ -26,7 +26,8 @@
     "react-native-web": "^0.19.13",
     "react-redux": "^9.2.0",
     "rickandmorty": "file:",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.17",
+    "expo-linear-gradient": "~14.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
