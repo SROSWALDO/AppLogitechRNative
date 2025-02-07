@@ -32,7 +32,7 @@ export default function Home() {
           />
         </View>
 
-        <View className="items-center justify-center text-white px-4">
+        <View className="items-center justify-center text-white mt-8 px-4">
           <Text className="text-white font-bold text-base mb-2">
             PRESENTAMOS
           </Text>
@@ -49,7 +49,7 @@ export default function Home() {
             <Text className="font-semibold text-white">EXPLORA A50 X</Text>
           </TouchableOpacity>
 
-          <View className="bg-[#00B8FC] mt-10 py-3 px-4 rounded">
+          <View className="bg-[#00B8FC] mt-16 py-3 px-4 rounded">
             <Text className="underline text-center font-semibold text-white">
               <Text style={{ fontWeight: "900" }}>DOUBLE THE POWER :</Text>{" "}
               Compra uno, obtén el segundo con un 30% de descuento
@@ -57,7 +57,7 @@ export default function Home() {
           </View>
         </View>
 
-        <View className="w-full flex justify-center items-center bg-black mt-5 mb-5">
+        <View className="w-full flex justify-center items-center bg-white mt-5 mb-5">
           <ProductList />
         </View>
 
